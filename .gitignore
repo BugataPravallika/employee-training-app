@@ -48,6 +48,9 @@ jspm_packages/
 .wnf-lang-status
 *debug.log
 
+# Local database settings; keep credentials out of the app repository.
+/employee_training_app/employee_training/doctype/employee_training/config.json
+
 # Helix Editor
 .helix/
 
